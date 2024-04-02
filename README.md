@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Tech Stack --> 
+<h2>🛠️ Tech Stack</h2>   
 
-<h3 align="Center">Tech Stack:</h3>
 <p align="center">
 <a href="https://www.scala-lang.org/" target="_blank"><img src="https://www.scala-lang.org/resources/img/smooth-spiral.png" alt="Scala" style="height: 3rem"/></a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> </a>
