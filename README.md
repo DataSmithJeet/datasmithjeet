@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 <h2>🔭 About Me</h2>
-<p>I'm Vishwajeet, a Data Engineer and Data Scientist endeavoring to solve complex business problems using data. My approach is simple yet effective:</p>
+<p>I'm Jeet, a Data Engineer and Data Scientist endeavoring to solve complex business problems using data. My approach is simple yet effective:</p>
 <ol>
   <li>Understand the problem</li>
   <li>Analyze the data</li>
